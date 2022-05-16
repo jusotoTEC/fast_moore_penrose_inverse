@@ -4,7 +4,7 @@
 %            inverse for well-determined numerical rank matrices based on the 
 %            Tikhonov regularization. (Submitted paper)
 
-clc; clear;
+clc; clear; 
 
 %Unknown vector bt
 bt=[0.53 0.97 1.06 0.40 1.20]';
