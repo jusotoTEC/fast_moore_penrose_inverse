@@ -28,7 +28,7 @@ function main_file()
     %r=round(m/2); A=randn(m,r)*randn(r,m);
     
     % Table 3 of paper
-    %A=randn(m/2,m);    
+    %A=randn(m,m/4);    
     
     disp(['Running experiment for m = ', num2str(m)])
 
