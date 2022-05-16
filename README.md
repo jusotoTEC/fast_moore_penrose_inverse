@@ -12,4 +12,4 @@
 
 **An Image from the Paper:**
 
-<p align="center"><img width="800" src="https://github.com/jusotoTEC/fast_moore_penrose_inverse/blob/main/img/img1.jpg"></p>
+<p align="center"><img width="1000" src="https://github.com/jusotoTEC/fast_moore_penrose_inverse/blob/main/img/img1.jpg"></p>
