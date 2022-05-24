@@ -19,7 +19,7 @@ function X=proposed_method(A,tol)
           s1=eig(T);
           s2=sort(s1,'descend');
           f=n*eps*s2(1);
-          s=sqrt(s1(s1>f));         
+          s=sqrt(s2(s2>f));         
           alpha=(0.5)*sqrt(tol/sum(1./s.^6));
           X=linsolve(T+alpha*eye(n),At);
       end
