@@ -5,7 +5,7 @@ function X=proposed_method(A,s,tol)
 %                      Positive singular values s of size r             
 %                      Constante tol > 0
 %              Output: Pseudoinverse X of size n x m
-% Reference: Soto-Quiros, P. (2022), A fast method to estimate the Moore-Penrose 
+% Reference: Soto-Quiros, P. (2024), A fast method to estimate the Moore-Penrose 
 % inverse for well-determined numerical rank matrices based on the Tikhonov 
 % regularization. (Submitted paper)
 
