@@ -1,6 +1,6 @@
 % Example 1
 
-% Reference: Soto-Quiros, P. (2022), A fast method to estimate the Moore-Penrose 
+% Reference: Soto-Quiros, P. (2024), A fast method to estimate the Moore-Penrose 
 %            inverse for well-determined numerical rank matrices based on the 
 %            Tikhonov regularization. (Submitted paper)
 
