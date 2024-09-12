@@ -1,4 +1,4 @@
-# MATLAB Code from Numerical Experiments in Paper *"A fast method to estimate the Moore-Penrose inverse for well-determined numerical rank matrices based on the Tikhonov regularization"*
+# MATLAB Code for Numerical Experiments in the Paper *"A fast method to estimate the Moore-Penrose inverse for well-determined numerical rank matrices based on the Tikhonov regularization"*
 
 ## Author
 
