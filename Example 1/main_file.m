@@ -2,7 +2,7 @@
 
 % Reference: Soto-Quiros, P. (2024), A fast method to estimate the Moore-Penrose 
 %            inverse for well-determined numerical rank matrices based on the 
-%            Tikhonov regularization. (Submitted paper)
+%            Tikhonov regularization.
 
 clc; clear; 
 
